@@ -1,0 +1,97 @@
+{
+  "site": {
+    "brand": "Consoulium 2k26",
+    "title": "Codex",
+    "eyebrow": "Consoulium 2026 · Limited seats",
+    "description": "Consoulium 2026: Ayatic Codex explores the divine patterns and rhythmic order woven into the universe. By mindfully observing the manifest signs (ayat) across creation—from delicate ecosystems to majestic galaxies—we discover the clearest path to the Creator, inspiring a faith built on profound certainty.",
+    "dateLabel": "26 – 29 Nov 2026",
+    "startDate": "2026-11-26",
+    "endDateExclusive": "2026-11-30",
+    "venue": "Consoulium Campus",
+    "registrationLabel": "Registrations open",
+    "registerUrl": "#register",
+    "exploreLabel": "Explore the day",
+    "themeLine": "Think it, build it, ship it, scale it"
+  },
+  "ribbons": [
+    {
+      "name": "LA-COSMIX",
+      "tone": "violet",
+      "symbol": "✦"
+    },
+    {
+      "name": "AL-COGNIX",
+      "tone": "rose",
+      "symbol": "✳"
+    },
+    {
+      "name": "EL-CLARIX",
+      "tone": "blue",
+      "symbol": "✦"
+    },
+    {
+      "name": "LO-GLIFIX",
+      "tone": "mint",
+      "symbol": "◒"
+    },
+    {
+      "name": "DER-ZENIX",
+      "tone": "amber",
+      "symbol": "✿"
+    }
+  ],
+  "chapters": [
+    {
+      "number": "01",
+      "title": "Perceive the signs at dawn",
+      "text": "Begin with careful observation. Every small detail offers a clue to the greater order."
+    },
+    {
+      "number": "02",
+      "title": "Decode the patterns by noon",
+      "text": "Connect ideas across disciplines and look for the patterns that bring them together."
+    },
+    {
+      "number": "03",
+      "title": "Connect the matrix before dusk",
+      "text": "Build a clearer picture by linking what you discover with the world around you."
+    },
+    {
+      "number": "04",
+      "title": "Attain certainty by nightfall",
+      "text": "Carry your learning forward with curiosity, purpose, and thoughtful action."
+    }
+  ],
+  "highlights": [
+    {
+      "value": "4 days",
+      "label": "Ideas, discovery and community"
+    },
+    {
+      "value": "One campus",
+      "label": "Consoulium Campus"
+    },
+    {
+      "value": "2026",
+      "label": "A new chapter begins"
+    }
+  ],
+  "navigation": [
+    {
+      "label": "Home",
+      "href": "#home"
+    },
+    {
+      "label": "Journey",
+      "href": "#journey"
+    },
+    {
+      "label": "Highlights",
+      "href": "#highlights"
+    },
+    {
+      "label": "Register",
+      "href": "#register"
+    }
+  ]
+}
