@@ -7,10 +7,10 @@ A standalone, static client demo for the Consoulium 2026 public landing page. Th
 Serve this folder with any static HTTP server so the browser can fetch `data/demo-content.json`.
 
 ```sh
-python -m http.server 8081
+node server.mjs
 ```
 
-Then visit `http://localhost:8081/`.
+Then visit `http://localhost:8081/consoulium`.
 
 ## Edit the demo
 
