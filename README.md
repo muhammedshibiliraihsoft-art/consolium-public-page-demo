@@ -14,7 +14,7 @@ Then visit `http://localhost:8081/consoulium`.
 
 ## Edit the demo
 
-Update `data/demo-content.json` to change the event copy, dates, venue, ribbon labels, journey chapters, highlights, and navigation. The content is illustrative and should be reviewed with the client before publication. The registration button currently points to a demo email address; replace it with the approved registration destination when available.
+Update `data/demo-content.json` to change the event copy, dates, venue, ribbon labels, journey chapters, highlights, and navigation. The content is illustrative and should be reviewed with the client before publication. Registration is a visible placeholder; connect it to an approved registration destination when one is available.
 
 ## Scope
 
